@@ -1,2 +1,2 @@
 # Desafio da DIO sobre Git/GitHub 
-Alguns comandos usados no GIT
+Repositório que mostra alguns comandos usados no GIT
